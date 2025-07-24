@@ -1,0 +1,29 @@
+* {
+    background:                  #282828;
+    background-color:            #282828;
+    foreground:                  #EBDBB2;
+    border-color:                #A89984;
+    separatorcolor:              #A89984;
+    scrollbar-handle:            #A89984;
+
+    normal-background:           #282828;
+    normal-foreground:           #EBDBB2;
+    alternate-normal-background: #3E3E3E;
+    alternate-normal-foreground: #EBDBB2;
+    selected-normal-background:  #458588;
+    selected-normal-foreground:  #EBDBB2;
+
+    active-background:           #D79921;
+    active-foreground:           #282828;
+    alternate-active-background: #C28A1E;
+    alternate-active-foreground: #282828;
+    selected-active-background:  #FABD2F;
+    selected-active-foreground:  #282828;
+
+    urgent-background:           #B16286;
+    urgent-foreground:           #282828;
+    alternate-urgent-background: #B8201A;
+    alternate-urgent-foreground: #282828;
+    selected-urgent-background:  #FB4934;
+    selected-urgent-foreground:  #282828;
+}
